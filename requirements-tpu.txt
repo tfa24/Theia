@@ -1,0 +1,11 @@
+--extra-index-url https://pypi.org/simple
+--find-links https://storage.googleapis.com/libtpu-releases/index.html
+
+einops
+lightning
+matplotlib
+pandas
+timm
+torch
+torch_xla[tpu]
+torchvision

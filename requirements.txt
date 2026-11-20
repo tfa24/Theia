@@ -1,0 +1,10 @@
+--index-url https://download.pytorch.org/whl/cu126
+--extra-index-url https://pypi.org/simple
+
+einops
+lightning
+matplotlib
+pandas
+timm
+torch
+torchvision
